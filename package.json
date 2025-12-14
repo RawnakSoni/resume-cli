@@ -1,9 +1,9 @@
 {
-  "name": "@rawnaksoni",
+  "name": "rawnaksoni",
   "version": "1.0.0",
   "description": "CLI resume for Ronak Soni",
   "bin": {
-    "@rawnaksoni": "./index.js"
+    "rawnaksoni": "./index.js"
   },
   "keywords": [
     "resume",
@@ -18,8 +18,8 @@
   },
   "license": "ISC",
   "dependencies": {
-    "boxen": "^8.0.1",
-    "chalk": "^5.6.2",
+    "boxen": "^5.1.2",
+    "chalk": "^4.1.2",
     "figlet": "^1.9.4"
   }
 }
